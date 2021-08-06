@@ -1,0 +1,6 @@
+
+# ignore all the text files created
+*.text
+
+# folder for testing pruposes
+/tst
