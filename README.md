@@ -1,5 +1,5 @@
 # leanring-shell
-This is a simple documentation of my journey learning shell scripting using [this tutorial](https://app.pluralsight.com/course-player?clipId=010e058c-0ace-4ad1-a972-cec9e47286ee).
+This is a simple documentation of my journey learning shell scripting using [this tutorial](https://app.pluralsight.com/course-player?clipId=010e058c-0ace-4ad1-a972-cec9e47286ee).  And yes, I know I misspelt leanring (Oops, there we go again)
 
 ### [HELLO WORLD](1-hello.sh)  
 This is the first code that simply prints hello world.  
